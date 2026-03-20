@@ -15,7 +15,7 @@ import urllib2
 import threading
 
 def usage():
-	print ''' usage : python attack.py [-t] [-c] http://www.baidu.com/
+	print ''' usage : python elmy.py [-t] [-c] http://www.baidu.com/
 	-h : help
 	-t : lasting time of ddos
 	-c : numbers of thread to create'''
